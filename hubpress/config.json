@@ -3,7 +3,7 @@
     "username": "jkarteaga",
     "repositoryName": "jkarteaga.github.io",
     "branch": "master",
-    "cname": ""
+    "cname": "jkartea.ga"
   },
   "theme": {
     "name": "ghostium"
@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://jkarteaga.github.io",
     "hubpress": "https://jkarteaga.github.io",
-    "theme": "//jkarteaga.github.io/themes/casper",
+    "theme": "//jkarteaga.github.io/themes/ghostium",
     "images": "https://jkarteaga.github.io/images"
   },
   "initialisationConfigComponent": {
