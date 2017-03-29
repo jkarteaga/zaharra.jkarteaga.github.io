@@ -6,7 +6,7 @@
     "cname": "jkartea.ga"
   },
   "theme": {
-    "name": "ghostium"
+    "name": "uno-zen"
   },
   "urls": {
     "site": "http://jkartea.ga",
@@ -26,7 +26,7 @@
   },
   "site": {
     "title": "Jon Koldo Arteaga",
-    "description": "",
+    "description": "Blog",
     "logo": "",
     "cover": "",
     "delay": "",
