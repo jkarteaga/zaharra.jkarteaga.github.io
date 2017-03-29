@@ -10,7 +10,7 @@
   },
   "urls": {
     "site": "https://jkarteaga.github.io",
-    "hubpress": "http://jkarteaga.netlify.com",
+    "hubpress": "https://jkarteaga.github.io",
     "theme": "//jkarteaga.github.io/themes/casper",
     "images": "https://jkarteaga.github.io/images"
   },
