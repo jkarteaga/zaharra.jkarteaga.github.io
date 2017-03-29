@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://jkartea.ga",
     "hubpress": "http://jkartea.ga",
-    "theme": "//jkartea.ga/themes/ghostium",
+    "theme": "//jkartea.ga/themes/uno-zen",
     "images": "http://jkartea.ga/images"
   },
   "initialisationConfigComponent": {
@@ -35,10 +35,10 @@
     "disqus": "jkarteaga"
   },
   "socialnetwork": {
-    "email": "",
+    "email": "jkarteaga@gmail.com",
     "github": "",
-    "twitter": "",
-    "facebook": "",
+    "twitter": "jkarteaga",
+    "facebook": "jkarteaga",
     "googleplus": "",
     "instagram": "",
     "pinterest": "",
