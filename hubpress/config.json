@@ -9,10 +9,10 @@
     "name": "ghostium"
   },
   "urls": {
-    "site": "https://jkarteaga.github.io",
-    "hubpress": "https://jkarteaga.github.io",
-    "theme": "//jkarteaga.github.io/themes/ghostium",
-    "images": "https://jkarteaga.github.io/images"
+    "site": "http://jkartea.ga",
+    "hubpress": "http://jkarteaga.netlify.com",
+    "theme": "//jkartea.ga/themes/ghostium",
+    "images": "http://jkartea.ga/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
